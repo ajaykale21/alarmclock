@@ -1,5 +1,8 @@
 # Alarm Clock with Sound
 
+## hosted link
+https://ajaykale21.github.io/alarmclock/
+
 This simple JavaScript project implements an alarm clock with a customizable alarm sound.
 
 ## How to Use
